@@ -1,4 +1,4 @@
-# 🌟 Hello, I'm is Yuriy! 
+# 🌟 Hello, I'm Yuriy! 
 
 ## 👨‍💻 About Me
 - 🎓 I have over a decade of diverse professional experience across industries like project coordination, administrative management, and game development.
@@ -21,7 +21,7 @@ Here are a few projects that I’ve been working on:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuriyNest)
 
 ## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/YuriyNest)
+- [LinkedIn](https://www.linkedin.com/in/yuriy-n-81518174/)
 - 📫 Reach me at: yuranest@gmail.com
 
 
