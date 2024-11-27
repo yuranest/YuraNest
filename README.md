@@ -14,7 +14,7 @@
 ## 🚀 Projects
 Here are a few projects that I’ve been working on:
 
-- [Around the US] (https://yuranest.github.io/se_project_aroundtheus/): A responsive website created with HTML, CSS, and JavaScript, featuring dynamic user interactions.
+- [Around the US](https://github.com/yuranest/se_project_aroundtheus): A responsive website created with HTML, CSS, and JavaScript, featuring dynamic user interactions.
 
 
 ## 🌐 Let's Connect
