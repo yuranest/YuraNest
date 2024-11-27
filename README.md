@@ -14,11 +14,8 @@
 ## 🚀 Projects
 Here are a few projects that I’ve been working on:
 
-- [Around the US](https://github.com/YuriyNest/se_project_aroundtheus): A responsive website created with HTML, CSS, and JavaScript, featuring dynamic user interactions.
+- [Around the US] (https://yuranest.github.io/se_project_aroundtheus/): A responsive website created with HTML, CSS, and JavaScript, featuring dynamic user interactions.
 
-## 📈 GitHub Stats
-![Yuriy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuriyNest&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuriyNest)
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/yuriy-n-81518174/)
